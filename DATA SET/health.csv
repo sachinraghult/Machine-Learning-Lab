@@ -1,0 +1,7 @@
+nose,cough,skin,class
+running nose,coughing,red skin,yes
+running nose,coughing,normal,yes
+running nose,normal,red skin,no
+normal,coughing,red skin,no
+normal,normal,red skin,no
+normal,normal,normal,no
